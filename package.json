@@ -1,0 +1,16 @@
+{
+  "name": "tarea",
+  "version": "1.0.1",
+  "description": "primera entrega",
+  "main": "cursos.js",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "santiago svalenciaz@unal.edu.co",
+  "license": "ISC"
+}
